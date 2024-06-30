@@ -1,4 +1,4 @@
-### Coffee Store Sales Analysis for Maven Company | Excel 
+# Coffee Store Sales Analysis for Maven Company | Excel 
 
 ## Key Objectives 
 1. Analyse revenue trends by month for each store.
