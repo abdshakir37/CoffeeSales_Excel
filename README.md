@@ -1,11 +1,11 @@
 Coffee Store Sales Analysis for Maven Company | 𝐄𝐱𝐜𝐞𝐥 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
-𝐊𝐞𝐲 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬
+### 𝐊𝐞𝐲 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬
 1. Analyse revenue trends by month for each store.
 2. Number of transactions by weekday and hours for each store.
 3. Top 5 product across all stores.
 
-𝐃𝐚𝐭𝐚 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧
+### 𝐃𝐚𝐭𝐚 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧
 
 Data obtained from Maven Company's website. Downloaded an excel file containing sales data for each store.
 
