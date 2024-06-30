@@ -10,7 +10,7 @@
 Data obtained from Maven Company's website. Downloaded an excel file containing sales data for each store.
 
 ## 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
-1. Some columns data with unnecessary space and improper spellings. Formatted them with trim and proper functions. 
+1. Some columns data had unnecessary space and improper spellings. Formatted them with trim and proper functions. 
 2. Created a revenue column based on sales quantities and prices.
 3. Converted the date column into separate columns for year, weekday, and hour to facilitate analysis.
 4. Created multiple pivot tables and pivot charts to analyse the data.
