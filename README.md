@@ -6,6 +6,7 @@ Coffee Store Sales Analysis for Maven Company | 𝐄𝐱𝐜𝐞𝐥 𝐃𝐚�
 3. Top 5 product across all stores.
 
 𝐃𝐚𝐭𝐚 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧
+
 Data obtained from Maven Company's website. Downloaded an excel file containing sales data for each store.
 
 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
